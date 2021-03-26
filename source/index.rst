@@ -11,6 +11,7 @@ Welcome to Moleem's docs!
    :caption: Contents:
 
    hello
+   projects
 
 
 Indices and tables
