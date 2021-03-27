@@ -62,3 +62,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur mollis massa 
 
 Curabitur dictum in urna ac aliquam. Ut efficitur nulla id libero placerat tincidunt. Nulla elementum condimentum sapien sed ullamcorper. Nam pretium leo mauris, sit amet viverra metus dapibus a.
 
+Tables
+------
+
+
+Grid Table
+..........
+
++------+------+
+| ColA | ColB |
++======+======+
+| r1A  | r1B  |
+| r2A  | r2B  |
++------+------+
+
+
+Simple Table
+............
+
+==== ====
+ColA ColB
+==== ====
+r1A  r1B
+r2A  r2B
+==== ====
