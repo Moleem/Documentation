@@ -86,3 +86,33 @@ ColA ColB
 r1A  r1B
 r2A  r2B
 ==== ====
+
+Admonitions
+-----------
+
+.. ATTENTION::
+  Attention level admonition.
+
+.. CAUTION::
+  Caution level admonition.
+
+.. DANGER::
+  Danger level admonition.
+
+.. ERROR::
+  Error level admonition.
+
+.. HINT::
+  Hint level admonition.
+
+.. IMPORTANT::
+  Important level admonition.
+
+.. NOTE::
+  Note level admonition.
+
+.. TIP::
+  Tip level admonition.
+
+.. WARNING::
+  Warning level admonition.
